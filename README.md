@@ -12,6 +12,7 @@ https://www.curseforge.com/wow/addons/routes
  
 https://www.curseforge.com/wow/addons/routes-import-export
 
+note: may require GatherMate2 for this step
 
 after add-on install put /routes in chat then click on the Routes header on
 
