@@ -1,5 +1,7 @@
 # wow-tbc-routes
-routes made by Zakku#7036 and friends
+basic route paths from https://www.wow-professions.com
+
+routes plugin paths made by Zakku#7036 and friends
 
 How to Use:
 
@@ -9,6 +11,6 @@ https://www.curseforge.com/wow/addons/routes
  
 https://www.curseforge.com/wow/addons/routes-import-export
 
-after add-on install put /routes in chat then click on the Routes header
+after add-on install put /routes in chat then click on the Routes header on
 
-on the left bar then paste your desired import string in the box in the center
+the left bar then paste your desired import string in the box in the center
